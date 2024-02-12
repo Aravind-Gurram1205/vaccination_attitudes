@@ -1,5 +1,3 @@
-# vaccination_attitudes
-# vaccination_attitudes
-# vaccination_attitudes
-# vaccination_attitudes
-# vaccination_attitudes
+## README
+
+Repository for Code Club episodes realates to Ipsos covid vaccine acceptance data  
